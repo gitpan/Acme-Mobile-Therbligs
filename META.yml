@@ -1,0 +1,19 @@
+--- #YAML:1.0
+name: Acme-Mobile-Therbligs
+version: 0.04
+author:
+  - Robert Rothenberg <rrwo at cpan.org>
+abstract: count keystrokes to write mobile text messages
+license: perl
+requires:
+  Carp: 0
+  YAML: 0.35
+  perl: 5.6.1
+build_requires:
+  IO::File: 0
+  Test::More: 0
+provides:
+  Acme::Mobile::Therbligs:
+    file: lib/Acme/Mobile/Therbligs.pm
+    version: 0.04
+generated_by: Module::Build version 0.2607
