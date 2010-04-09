@@ -11,6 +11,9 @@ WriteMakefile
                            'YAML' => '0.35'
                          },
           'INSTALLDIRS' => 'site',
+          'EXE_FILES' => [],
           'PL_FILES' => {}
-        )
+        ),
+    ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
+      (AUTHOR         => 'Rene Schickbauer <rene.schickbauer@gmail.com>') : ()),
 ;

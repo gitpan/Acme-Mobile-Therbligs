@@ -1,5 +1,11 @@
 Revision history for Perl extension Acme::Mobile::Therbligs.
 
+0.05  Fri Apr 09 15:20:00 2010
+	- maintenance taken over by Rene Schickbauer
+    - Changed build system back to Makefile.PL only for
+      easier integration into my tool chains
+    - Added some self tests
+
 0.04  Wed Jan  5 2005
 	- renamed to Acme::Mobile::Therbligs
 

@@ -33,12 +33,24 @@ REVISION HISTORY
 AUTHOR
     Robert Rothenberg <rrwo at cpan.org>
 
+    current Maintainer: Rene Schickbauer <rene.schickbauer at gmail.com>
+
+REPORTING BUGS
+    We don't know of any major bugs, but that doesn't mean there aren't any.
+    Please the CPAN bugtracker or mail Rene Schickbauer directly.
+
 COPYRIGHT AND LICENSE
     Copyright (C) 2004-2005 by Robert Rothenberg. All Rights Reserved.
 
     This library is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself, either Perl version 5.8.3 or, at
     your option, any later version of Perl 5 you may have available.
+
+    Now maintained by Rene Schickbauer, so i guess everything after version 0.02
+    is (C) 2010 Rene Schickbauer
+
+    Now maintained by Rene Schickbauer, so i guess everything after version 0.02
+    is (C) 2010 Rene Schickbauer
 
 SEE ALSO
     This module is similar to Device::KeyStroke::Mobile.

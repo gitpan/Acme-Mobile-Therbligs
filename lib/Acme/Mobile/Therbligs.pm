@@ -37,7 +37,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Exporter;
 
@@ -247,6 +247,13 @@ sub count_therbligs {
 
 Robert Rothenberg <rrwo at cpan.org>
 
+current Maintainer: Rene Schickbauer <rene.schickbauer at gmail.com>
+
+=head1 REPORTING BUGS
+
+We don't know of any bugs, but that doesn't mean there aren't any. Please
+the CPAN bugtracker or mail Rene Schickbauer directly.
+
 =head1 COPYRIGHT AND LICENSE
 
 Copyright (C) 2004-2005 by Robert Rothenberg.  All Rights Reserved.
@@ -254,6 +261,9 @@ Copyright (C) 2004-2005 by Robert Rothenberg.  All Rights Reserved.
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.3 or,
 at your option, any later version of Perl 5 you may have available.
+
+Now maintained by Rene Schickbauer, so i guess everything after version 0.01
+is (C) 2010 Rene Schickbauer
 
 =head1 SEE ALSO
 
